@@ -1,1 +1,2 @@
 Adding a production branch
+Adding a staging branch
